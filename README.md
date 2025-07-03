@@ -1,23 +1,5 @@
-# parcel 
- - Dev Build
- - Local Server
- - HMR = Hot Module Replacement
- - File Watching Algorithms -wtitten in c++
- - Caching - Faster Builds
- - Image Optimization
- - Minification 
- - Bundling
- - Compress
- - Consistent Hashing
- - Code Splitting
- - Differential Bundling - support older browser
- - Diagnostics
- - Error Handling
- - HTTPs
- - Tree shaking - removed unused code
- - Different dev and prod bundles
 
-# Namaste Food
+#  Food
 /**
 * Header
 *  . Logo
@@ -82,3 +64,22 @@ Two types of Export/Import
  - Install @babel/preset-react - to make jsx work in test cases
  - Include @babel/preset-react inside my babel config
  - Install @testing-library/jest-dom
+
+ - # parcel 
+ - Dev Build
+ - Local Server
+ - HMR = Hot Module Replacement
+ - File Watching Algorithms -wtitten in c++
+ - Caching - Faster Builds
+ - Image Optimization
+ - Minification 
+ - Bundling
+ - Compress
+ - Consistent Hashing
+ - Code Splitting
+ - Differential Bundling - support older browser
+ - Diagnostics
+ - Error Handling
+ - HTTPs
+ - Tree shaking - removed unused code
+ - Different dev and prod bundles
