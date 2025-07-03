@@ -1,5 +1,8 @@
+# 🍔 Foodify — React Food Delivery App
+A Swiggy-inspired food delivery platform built using React, Redux Toolkit, React Router, and Parcel. It includes dynamic restaurant listings, menu pages, cart functionality, and a scalable folder structure.
 
-#  Food
+
+# Foodify Food
 /**
 * Header
 *  . Logo
